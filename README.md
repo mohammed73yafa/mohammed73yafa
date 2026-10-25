@@ -1,7 +1,31 @@
-# Mohammed Sami
-<pre>
-$ system_info
-┌──(muhammad㉿kali)-[~]
+# `> ACCESSING_PROFILE...`
+
+```text
+
+
+    ╔════════════════════════════════════════════════════════════════════════════╗
+    ║                                                                            ║
+    ║ ███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗ █████╗ ██████╗             ║
+    ║ ████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║██╔══██╗██╔══██╗            ║
+    ║ ██╔████╔██║██║   ██║███████║███████║██╔████╔██║███████║██║  ██║            ║
+    ║ ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══██║██║  ██║            ║
+    ║ ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝            ║
+    ║ ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝             ║
+    ║                                                                            ║
+    ╚════════════════════════════════════════════════════════════════════════════╝
+
+```
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+Profile...;%3E+Scanning+Network...;%3E+Access+Granted+%5B%F0%9F%9F%A2%5D" />
+
+</p>
+
+## `$ system_info`
+
+```bash
+┌──(kunal㉿kali)-[~]
 └─$ status
 
 [+] SYSTEM ........ ONLINE
@@ -9,46 +33,139 @@ $ system_info
 [+] NETWORK ....... MONITORED
 [+] SECURITY ...... ENABLED
 [+] MODE .......... LEARNING
+```
 
-$ whoami
-┌──(muhammad㉿kali)-[~/profile]
-└─$ cat profile.txt
+---
+
+## `$ whoami`
+
+```bash
+┌──(kunal㉿kali)-[~/profile]
+└─$ cat porfile.txt
 
 ╭──────────────────────────────────────────────────────────────╮
 │                       USER PROFILE                           │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  USER      : Mohammed Sami                              │
-│  ROLE      : Cybersecurity Student | Penetration Testing & Web Security | Network | API-RTA Certified    │
-│  UNIVERSITY: University of Aden                              │
-│  LOCATION  : Aden, Yemen 🇾🇪                                  │
+│  USER      : Mohammed Sami                                   │
+│  ROLE      : Cybersecurity Student | Penetration Testing &   |
+              Web Security | Network | API-RTA Certified       │
+│  EDUCATION : B.Tech - Cybersecurity                          │
+│  OS        : Linux / Windows                                 │
+│  LOCATION  : Earth 🌍                                        │
 │  STATUS    : ● ONLINE                                        │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
+```
 
-$ Skills
-┌──(muhammad㉿kali)-[~/profile]
+---
+
+## `$ Skills`
+
+```bash
+┌──(kunal㉿kali)-[~/profile]
 └─$ ls -la /skills
 
-drwxr-xr-x  web-penetration-testing/
-drwxr-xr-x  network-security/
-drwxr-xr-x  full-stack-dev/
-drwxr-xr-x  linux-admin/
-drwxr-xr-x  python-php/
+drwxr-xr-x   Penetration Testing/
+drwxr-xr-x  web-security/
+drwxr-xr-x  web-Testing/
+drwxr-xr-x  API-Testing/
+drwxr-xr-x  linux/
 
-$ TERMINAL
-┌──(muhammad㉿kali)-[~/profile]
+```
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,c,git,github,docker" />
+
+</p>
+
+---
+
+## `$ cat tools.sh`
+
+```text
+[████████████████████████████████████████] 100%
+
+Recon .............. [███████████████░░] LEARNING
+NMAP ............... [█████████████████] MASTERED
+WIRESHARK .......... [███████████████░░] LEARNING
+BURP SUITE ......... [██████████████░░░] LEARNING
+LINUX .............. [████████████████░] ACTIVE
+Metasploit ............. [██████████████░░░] ACTIVE
+```
+
+---
+
+## `$ TERMINAL`
+```
+┌──(kunal㉿kali)-[~/profile]
 └─$ ./continue_learning.sh
 
 [+] Keep learning.
 [+] Keep testing.
 [+] Keep defending.
+```
 
-$ CONNECT
+
+## `$ CTF_MODE`
+
+```text
+╭────────────────────────────────────────────╮
+│              CAPTURE THE FLAG               │
+├────────────────────────────────────────────┤
+│                                            │
+│  STATUS       : ACTIVE                     │
+│  CHALLENGES   : ████████░░░░░░             │
+│  FLAGS        : ████████░░░░░░             │
+│  EXPERIENCE   : INCREASING...              │
+│                                            │
+╰────────────────────────────────────────────╯
+```
+
+
+## `$ CONNECT`
+
+```bash
 ┌──(root㉿cyberlab)-[~/social]
-└─# echo "See you on the other side..."
+└─# ./connect.sh
+```
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedyafa)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/mohammed73yafa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:@gmail.com)
+
+</div>
+
+```
+┌──(kunal㉿kali)-[~]
+└─# echo "See you on the other side..."
+```
+
+<div align="center">
+
+```
 ┌────────────────────────────────────────────────────────────────┐
 │  "The keyboard is my weapon, knowledge is my ammunition."      │
+│                                                 — Kali Linux   │
 └────────────────────────────────────────────────────────────────┘
-</pre>
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kunal-jain-385&color=00ff41&style=flat-square&label=Profile+Views)
+
+
+`[ SYSTEM ONLINE ]`  `|`  `[ KEEP LEARNING ]`  `|`  `[ STAY ETHICAL ]`
+
+</div>
+
+```text
+███████╗███╗   ██╗██████╗ 
+██╔════╝████╗  ██║██╔══██╗
+█████╗  ██╔██╗ ██║██║  ██║
+██╔══╝  ██║╚██╗██║██║  ██║
+███████╗██║ ╚████║██████╔╝
+╚══════╝╚═╝  ╚═══╝╚═════╝ 
+
+> CONNECTION TERMINATED_
+```
