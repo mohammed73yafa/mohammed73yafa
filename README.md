@@ -1,16 +1,54 @@
-## Hi there 👋
+# Mohammed Sami
+<pre>
+$ system_info
+┌──(muhammad㉿kali)-[~]
+└─$ status
 
-<!--
-**mohammed73yafa/mohammed73yafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[+] SYSTEM ........ ONLINE
+[+] FIREWALL ...... ACTIVE
+[+] NETWORK ....... MONITORED
+[+] SECURITY ...... ENABLED
+[+] MODE .......... LEARNING
 
-Here are some ideas to get you started:
+$ whoami
+┌──(muhammad㉿kali)-[~/profile]
+└─$ cat profile.txt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+╭──────────────────────────────────────────────────────────────╮
+│                       USER PROFILE                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  USER      : Mohammed Sami                              │
+│  ROLE      : Cybersecurity Student | Penetration Testing & Web Security | Network | API-RTA Certified    │
+│  UNIVERSITY: University of Aden                              │
+│  LOCATION  : Aden, Yemen 🇾🇪                                  │
+│  STATUS    : ● ONLINE                                        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+$ Skills
+┌──(muhammad㉿kali)-[~/profile]
+└─$ ls -la /skills
+
+drwxr-xr-x  web-penetration-testing/
+drwxr-xr-x  network-security/
+drwxr-xr-x  full-stack-dev/
+drwxr-xr-x  linux-admin/
+drwxr-xr-x  python-php/
+
+$ TERMINAL
+┌──(muhammad㉿kali)-[~/profile]
+└─$ ./continue_learning.sh
+
+[+] Keep learning.
+[+] Keep testing.
+[+] Keep defending.
+
+$ CONNECT
+┌──(root㉿cyberlab)-[~/social]
+└─# echo "See you on the other side..."
+
+┌────────────────────────────────────────────────────────────────┐
+│  "The keyboard is my weapon, knowledge is my ammunition."      │
+└────────────────────────────────────────────────────────────────┘
+</pre>
